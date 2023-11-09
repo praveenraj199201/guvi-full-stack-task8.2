@@ -1,0 +1,201 @@
+.container{
+    width: 100%; 
+    height: 1024px; 
+    position: relative; 
+    background: white;
+}
+.form{
+    width: 1412px; 
+    height: 992px; 
+    left: 16px; 
+    top: 16px; 
+    position: absolute; 
+    background: #FFFEFE; 
+    border: 1px black solid
+}
+.title1{
+    left: 638px; 
+    top: 84px; 
+    position: absolute; 
+    color: black; 
+    font-size: 48px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.title2{
+    left: 391px; 
+    top: 182px; 
+    position: absolute; 
+    color: black; 
+    font-size: 48px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.enlp{
+    width: 1282px; 
+    height: 602px; 
+    left: 79px; 
+    top: 342px; 
+    position: absolute; 
+    background: #FFFDFD; 
+    border: 1px black solid;
+}
+.name{
+    left: 671px; 
+    top: 389px; 
+    position: absolute; 
+    color: black; 
+    font-size: 32px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.nameip{
+    width: 519px; 
+    height: 49px; 
+    left: 781px; 
+    top: 384px; 
+    position: absolute; 
+    background: #FFFBFB; 
+    border: 1px black solid;
+}
+.email{
+    left: 680px; 
+    top: 463px; 
+    position: absolute; 
+    color: black; 
+    font-size: 32px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.emailip{
+    width: 519px; 
+    height: 49px; 
+    left: 781px; 
+    top: 463px; 
+    position: absolute; 
+    background: #FFFBFB; 
+    border: 1px black solid
+}
+.pno{
+    left: 612px; 
+    top: 547px; 
+    position: absolute; 
+    color: black; 
+    font-size: 32px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.pnoip{
+    width: 519px; 
+    height: 49px; 
+    left: 781px; 
+    top: 542px; 
+    position: absolute; 
+    background: #FFFBFB; 
+    border: 1px black solid;
+}
+.nos{
+    left: 509px; 
+    top: 628px; 
+    position: absolute; 
+    color: black; 
+    font-size: 32px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.nosip{
+    width: 305px; 
+    height: 53px; 
+    left: 781px; 
+    top: 621px; 
+    position: absolute;
+}
+.nosip1{
+    width: 305px; 
+    height: 53px; 
+    left: 0px; 
+    top: 0px; 
+    position: 
+    absolute; 
+    background: #FFFBFB; 
+    border: 1px black solid;
+}
+.nosv{
+    left: 21px; 
+    top: 12px; 
+    position: absolute; 
+    color: black; 
+    font-size: 24px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.noa{
+    left: 424px; 
+    top: 709px; 
+    position: absolute; 
+    color: black; 
+    font-size: 32px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.noaip{
+    width: 519px; 
+    height: 49px; 
+    left: 781px; 
+    top: 704px; 
+    position: absolute; 
+    background: #FFFBFB; 
+    border: 1px black solid;
+}
+.Submit{
+    width: 297px; 
+    height: 72px; 
+    left: 578px; 
+    top: 824px; 
+    position: absolute; 
+    background: #FFFBFB; 
+    border-radius: 10px; 
+    border: 1px black solid;
+    cursor: pointer;
+}
+.Submitv{
+    left: 660px; 
+    top: 838px; 
+    position: absolute; 
+    color: black; 
+    font-size: 36px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    cursor: pointer;
+}
+.cancel{
+    width: 297px; 
+    height: 72px; 
+    left: 978px; 
+    top: 824px; 
+    position: absolute; 
+    background: #FFFBFB; 
+    border-radius: 10px; 
+    border: 1px black solid;
+    cursor: pointer;
+}
+.cancelv{
+    left: 1068px; 
+    top: 838px; 
+    position: absolute; 
+    color: black; 
+    font-size: 36px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    cursor: pointer;
+}
